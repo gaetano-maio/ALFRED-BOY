@@ -11,10 +11,10 @@
 #include <string.h>
 #include <time.h>
 #include <conio.h>
-#include "Robot.h"  // * Incluso il file [Robot.h], in cui è presente la classe [Robot].
+#include "Robot.h"  // * Incluso il file [Robot.h], in cui Ã¨ presente la classe [Robot].
 using namespace std;
 
-
+//prova github//
 
 
     int direction(int);
@@ -98,7 +98,7 @@ using namespace std;
             switch(direction(Move))
             {
 
-                // In base ai tasti WASD, l'utente può muovere il robottino Alfred.
+                // In base ai tasti WASD, l'utente puÃ² muovere il robottino Alfred.
 
                 case UP:
 
